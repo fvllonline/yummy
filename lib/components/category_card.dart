@@ -31,7 +31,7 @@ class CategoryCard extends StatelessWidget {
                 top: 16.0,
                 left: 16.0,
                 child: Text(
-                  'Explore',
+                  'Yummy',
                   style: Theme.of(context).textTheme.headlineSmall?.copyWith(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
